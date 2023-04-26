@@ -21,3 +21,13 @@ we can
 2) Allow users to create custom filters based on breed, size, color, and other characteristics.
 3) Add social sharing features to allow users to easily share their favorite dog pictures on social media platforms like Facebook and Twitter.
 4) Add a "dog of the day" feature that highlights a new, adorable dog picture every day.
+
+
+###Screenshots
+![Screenshot 2023-04-26 182030](https://user-images.githubusercontent.com/80810384/234585232-4f867096-cbb8-44ed-a884-10a8f57b346d.png)
+
+![Screenshot 2023-04-26 182113](https://user-images.githubusercontent.com/80810384/234585285-9439d162-9ed7-41b3-aba6-2ac40159ca87.png)
+![Screenshot 2023-04-26 182132](https://user-images.githubusercontent.com/80810384/234585318-0a2b5bec-7d0b-4122-8dc7-70737c8d23ec.png)
+
+
+![Screenshot 2023-04-26 182152](https://user-images.githubusercontent.com/80810384/234585457-754907c3-065d-4097-b728-dd1b183dd7f4.png)
